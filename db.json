@@ -1,9 +1,1545 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "nike-produtos":[
+   {
+     "id": 1,
+      "name": "Tênis Nike Vapormax 2023",
+      "slogan":"Você já andou no ar? Entre no Air VaporMax 2023 para ver como é feito.",
+      "price": 1499,
+      "pix": 1.424,
+      "parcelas": "6x de R$ 250,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/dv1678-003-3.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/dv1678-003-5.jpg",
+      "descricao": "Código identificador (SKU): DV1678-003 A tecnologia inovadora é revelada através da palmilha perfurada (retire para ver mais). A parte superior elástica do Flyknit é feita com pelo menos 20% de conteúdo reciclado em peso."
+   },
+   {
+    "id": 2,
+      "name": "Chinelo Nike Victori One",
+      "slogan":"Da praia às arquibancadas, o Nike Victori One aperfeiçoa um design clássico e essencial. Oferecendo conforto com leveza e praticidade, ele foi atualizado com uma espuma mais macia e ágil. O padrão de pegada anatômico ajuda a apoiar e a manter o pé no lugar, enquanto a nova tira acolchoada oferece conforto e estilo.",
+      "price": 249.99,
+      "pix": 237.49,
+      "parcelas": "4x de R$ 62,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/10/cn9675-600-4.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/10/cn9675-600-2.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 3,
+      "name": "Nike Air Force 1 '07 Next Nature",
+      "slogan":"O brilho continua vivo no Air Force 1 '07, o ícone do basquete que dá um toque de frescor ao que você conhece melhor: materiais frescos, cores fortes e a quantidade perfeita de brilho para fazer você brilhar.",
+      "price": 799.99,
+      "pix": 733.49,
+      "parcelas": "6x de R$ 133,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/dc9486-103-2.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/dc9486-103-4.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 4,
+      "name": "Tênis Nike Air Force 1 '07 W & B",
+      "slogan":"O brilho perdura no Nike Air Force 1 07, o tênis original do basquete que dá um toque renovado naquilo que você conhece bem: couro viçoso, cores ousadas e brilho perfeito para fazer você se destacar.",
+      "price": 799.99,
+      "pix": 733.49,
+      "parcelas": "6x de R$ 133,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/dd8959-103-3.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/dd8959-103-5.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 5,
+      "name": "Tênis Nike Air Force 1 '07  W & Y",
+      "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+      "price": 799.99,
+      "pix": 733.49,
+      "parcelas": "6x de R$ 133,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-2.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-4.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 6,
+      "name": "Tênis Nike Air Force 1'07  W & R",
+      "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+      "price": 799.99,
+      "pix": 733.49,
+      "parcelas": "6x de R$ 133,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/fj4146-106-2.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/fj4146-106-4.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 7,
+      "name": "Camiseta Nike  Masculina",
+      "slogan":"ALGODÃO DENSO EM UM CAIMENTO SOLTO. A camiseta Nike Sportswear Premium Essentials tem um caimento solto para uma sensação confortável e casual. Seu tecido de algodão orgânico denso é espesso e macio. Este produto é feito com, no mínimo, 75% de fibras de algodão orgânico.",
+      "price":  249.99,
+      "pix": 237.49,
+      "parcelas": "4x de R$ 63,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/do7392-010-0005-frente.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/do7392-010-0004-verso.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 8,
+      "name": "Camiseta Nike Masculina",
+      "slogan":"Esta camiseta Max90 oferece ombros caídos, mangas mais longas e um ajuste espaçoso no corpo e quadris, dando a ela um visual relaxado. O tecido de algodão de peso médio é macio e tem um leve caimento.",
+      "price":  249.99,
+      "pix": 237.49,
+      "parcelas": "4x de R$ 63,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/fz5385-010-0004-frente2.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/fz5385-010-0005-verso.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+   ,
+   {
+    "id": 9,
+      "name": "Camiseta Masculina Verde",
+      "slogan":"Camiseta clássica fica solta no corpo para facilitar a composição de camadas. Seu algodão leve é macio e confortável para uso no dia a dia.",
+      "price":  249.99,
+      "pix": 237.49,
+      "parcelas": "4x de R$ 63,00 sem juros",
+      "image1":"https://s.lojakings.com.br/product/2024/09/fz9998-365-0007-frente.jpg",
+      "image2":"https://s.lojakings.com.br/product/2024/09/fz9998-365-0006-verso.jpg",
+      "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+   }
+    ],
+    "adidas-produtos":[
+        {
+            "id": 10,
+            "name": "Tênis Adidas Samba OG",
+            "slogan":"Se você voltasse no tempo para os anos 1960, encontraria jogadores profissionais de futebol usando adidas Sambas exatamente como este tênis infantil. Bem, quase iguais a ele. Atualizado para a próxima geração, ele possui palmilha macia e confortável para o dia todo. O cabedal de couro, o solado de borracha natural e as Três Listras continuam clássicos.",
+            "price":  799.99,
+            "pix": 757.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/ji4463-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/ji4463-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 11,
+            "name": "Tênis Adidas Campus",
+            "slogan":"Embora tenham feito sua estreia no piso de madeira, os tênis Campus da adidas foram rapidamente adotados em quase todos os outros lugares. Com este par, movemos a silhueta icônica em outra direção e adicionamos materiais, cores e proporções modernas. Eles são feitos com um cabedal de couro premium forrado com tecido felpudo macio, com tudo isso montado em uma entressola off-white — uma conexão clara com o legado do Campus.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/id1437-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/id1437-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 12,
+            "name": "Tênis Adidas Campus 00s",
+            "slogan":"Este tênis Campus 00s revive uma silhueta icônica da adidas e dá um toque divertido. O cabedal sintético e de suede proporciona uma sensação de luxo, enquanto as Três Listras largas adicionam contraste ousado. Para um toque fofo e elegante, as pontas dos cadarços extras são amarradas em laços divertidos. Sob os pés, o solado de borracha oferece aderência para explorar o dia todo.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 13,
+            "name": "Tênis Adidas Campus 00s",
+            "slogan":"Estes tênis adidas combinam design tradicional com tendências modernas para um visual que transcende as décadas. O cabedal de camurça molda uma silhueta icônica inspirada nas quadras, atualizada para as sensibilidades de estilo de hoje. As 3 Listras serrilhadas adicionam vibrações grunge sutis, enquanto o solado de borracha de goma mantém o visual autêntico.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/jr0104-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/jr0104-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 14,
+            "name": "Regata Adidas Essentials",
+            "slogan":"Exiba estilo e conforto sem esforço com esta regata adidas. O design leve e delineador é feito de malha canelada que envolve seu corpo nos lugares certos. Combinada com uma calça jogger ou jeans, esta peça essencial e versátil transita perfeitamente do dia para a noite.",
+            "price":  129.99,
+            "pix": 123.49,
+            "parcelas": "2x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/iw5736-0006-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/iw5736-0002-frente2.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 15,
+            "name": "Camiseta Adidas 3-Stripes ",
+            "slogan":"Esta camiseta adidas não apenas exibe as icônicas Três Listras, mas as celebra. Feita de malha simples para uma sensação leve e macia, a modelagem folgada oferece uma vibe descontraída perfeita para combinar com joggers e tênis. Para um look diferenciado, combine com uma calça de couro ou com uma saia e saltos.",
+            "price":  179.99,
+            "pix": 170.49,
+            "parcelas": "3x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/iy7230-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/iy7230-verso.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 16,
+            "name": "Calça Adidas Classics SST",
+            "slogan":"As reinvenções têm tudo a ver com aproveitar o melhor do que já foi e torná-lo relevante para os dias de hoje. Inspirada nos estilos dos arquivos, esta calça adidas homenageia o passado com modelagem justa, barras caneladas e o Trefoil bordado em uma das pernas. O material macio leva o conforto a um novo patamar e o cordão na cintura elástica permite um ajuste perfeito a cada uso. Use-o sempre que tiver vontade de relaxar quando quiser.",
+            "price":  279.99,
+            "pix": 250.49,
+            "parcelas": "5x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/il2488-0003-model.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/il2488-0005-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    
+    ],
+    "jordan-produtos":[
+        {
+            "id": 17,
+            "name": "Tênis Air Jordan Spizike",
+            "slogan":"O Spizike leva elementos de cinco Jordans clássicos , combina-os e oferece um tênis icônico. É uma homenagem a Spike Lee apresentando formalmente Hollywood e o basquete em um momento cultural. Você obtém um ótimo par de chutes com um pouco de história. O que mais você pode pedir? Você gostou",
+            "price":  1279,
+            "pix": 1.250,
+            "parcelas": "5x de R$ 213,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/08/fq1759-101-3.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/08/fq1759-101-5.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 18,
+            "name": "Tênis Air Jordan Legacy 312 Low",
+            "slogan":"Quem não gosta de um bom mash-up? Pegando elementos do AJ1, AJ3 e do Nike Air Alpha Force, esses tênis reúnem o que há de melhor. Detalhes icônicos (confira a estampa de elefante e a tira no meio do pé) homenageiam a época de MJ no código de área 312 de Chicago. Com materiais premium e amortecimento Nike Air, este é o início de um legado totalmente novo.",
+            "price":  1279,
+            "pix": 1.250,
+            "parcelas": "5x de R$ 213,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/08/fq7827-006-3.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/08/fq7827-006-5.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 19,
+            "name": "Tênis Air Jordan Spizike Low ",
+            "slogan":"Apresentando o Jordan Spizike Low “Anthracite”, uma colorway elegante e sofisticada que se junta à icônica linha da Jordan Brand. Além do popular par “Black Cat”, essa nova silhueta híbrida oferece uma combinação única de estilo e história, honrando o legado de Michael Jordan e a influência cultural de Spike Lee. Lançado originalmente em 2006, o Air Jordan Spizike é o resultado de uma colaboração entre a Jordan Brand e o renomado cineasta Spike Lee, amalgamando elementos de vários modelos clássicos da Air Jordan em um único design que se tornou um favorito entre os fãs.",
+            "price":  1279,
+            "pix": 1.250,
+            "parcelas": "5x de R$ 213,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/08/fq1759-002-5.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/08/fq1759-002-2.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 20,
+            "name": "Tênis Jordan Two Trey",
+            "slogan":"Assim como a placa do MJ diz “Two Trey”, mostre ao que você veio. Esta nova geração de Jordan celebra o tempo de Mike em Chicago, completa com cabedal de couro de alta qualidade e solado com amortecimento Air. Feita em homenagem ao estilo em quadra usado durante seus anos de campeonato, o design da entressola Two Trey faz referência ao AJ11 e ao AJ12.",
+            "price":  1279,
+            "pix": 1.250,
+            "parcelas": "5x de R$ 213,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/02/do1925-100-lado2-1402211455.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/02/do1925-100-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "puma-produtos":[
+        {
+            "id": 21,
+            "name": "Tênis Puma Suede Classic",
+            "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/385378-67-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/385378-67-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 22,
+            "name": "Tênis Suede XL ",
+            "slogan":"Esta nova abordagem ao clássico Suede inspira-se na herança da PUMA no breakdance e na sua influência no streetwear moderno. O Suede XL mantém o DNA icônico do Suede, mas dá um toque diferente com uma boca e língua acolchoadas exageradas, além de uma sola mais robusta. Esta execução apresenta uma parte superior totalmente em camurça com uma Formstrip de couro.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-5.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-2.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 23,
+            "name": "Tênis Puma Rs-x Mix",
+            "slogan":"Combinando elementos de design vintage com tecnologia de ponta, os RS-X Mix apresentam uma entressola robusta que proporciona amortecimento responsivo e suporte durante todo o dia. Sua sola de borracha durável oferece tração excepcional em uma variedade de superfícies, garantindo estabilidade e segurança em cada passo.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/394302-50-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/394302-50-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 23,
+            "name": "Tênis Puma Suede Classic",
+            "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/385378-01-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/385378-01-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "sneakers-produtos":[
+        {
+            "id":24,
+              "name": "Nike Air Force 1 '07 Next Nature",
+              "slogan":"O brilho continua vivo no Air Force 1 '07, o ícone do basquete que dá um toque de frescor ao que você conhece melhor: materiais frescos, cores fortes e a quantidade perfeita de brilho para fazer você brilhar.",
+              "price": 799.99,
+              "pix": 733.49,
+              "parcelas": "6x de R$ 133,00 sem juros",
+              "image1":"https://s.lojakings.com.br/product/2024/09/dc9486-103-2.jpg",
+              "image2":"https://s.lojakings.com.br/product/2024/09/dc9486-103-4.jpg",
+              "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+           }
+           ,
+           {
+            "id": 25,
+              "name": "Tênis Nike Air Force 1 '07 Feminino White & Black",
+              "slogan":"O brilho perdura no Nike Air Force 1 07, o tênis original do basquete que dá um toque renovado naquilo que você conhece bem: couro viçoso, cores ousadas e brilho perfeito para fazer você se destacar.",
+              "price": 799.99,
+              "pix": 733.49,
+              "parcelas": "6x de R$ 133,00 sem juros",
+              "image1":"https://s.lojakings.com.br/product/2024/09/dd8959-103-3.jpg",
+              "image2":"https://s.lojakings.com.br/product/2024/09/dd8959-103-5.jpg",
+              "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+           }
+           ,
+           {
+            "id": 26,
+              "name": "Tênis Nike Air Force 1 '07 Masculino White & Yelow",
+              "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+              "price": 799.99,
+              "pix": 733.49,
+              "parcelas": "6x de R$ 133,00 sem juros",
+              "image1":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-2.jpg",
+              "image2":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-4.jpg",
+              "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+           }
+           ,
+           {
+            "id": 27,
+              "name": "Tênis Nike Air Force 1'07 Masculino White & Red",
+              "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+              "price": 799.99,
+              "pix": 733.49,
+              "parcelas": "6x de R$ 133,00 sem juros",
+              "image1":"https://s.lojakings.com.br/product/2024/09/fj4146-106-2.jpg",
+              "image2":"https://s.lojakings.com.br/product/2024/09/fj4146-106-4.jpg",
+              "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+           }
+           ,
+           {
+            "id": 28,
+            "name": "Tênis Adidas Campus 00s",
+            "slogan":"Este tênis Campus 00s revive uma silhueta icônica da adidas e dá um toque divertido. O cabedal sintético e de suede proporciona uma sensação de luxo, enquanto as Três Listras largas adicionam contraste ousado. Para um toque fofo e elegante, as pontas dos cadarços extras são amarradas em laços divertidos. Sob os pés, o solado de borracha oferece aderência para explorar o dia todo.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 29,
+            "name": "Tênis Adidas Campus 00s Verde",
+            "slogan":"Estes tênis adidas combinam design tradicional com tendências modernas para um visual que transcende as décadas. O cabedal de camurça molda uma silhueta icônica inspirada nas quadras, atualizada para as sensibilidades de estilo de hoje. As 3 Listras serrilhadas adicionam vibrações grunge sutis, enquanto o solado de borracha de goma mantém o visual autêntico.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/jr0104-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/jr0104-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 30,
+            "name": "Tênis Puma Suede Classic Verde Masculino",
+            "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/385378-67-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/385378-67-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 31,
+            "name": "Tênis Suede XL Preto",
+            "slogan":"Esta nova abordagem ao clássico Suede inspira-se na herança da PUMA no breakdance e na sua influência no streetwear moderno. O Suede XL mantém o DNA icônico do Suede, mas dá um toque diferente com uma boca e língua acolchoadas exageradas, além de uma sola mais robusta. Esta execução apresenta uma parte superior totalmente em camurça com uma Formstrip de couro.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-5.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-2.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 32,
+            "name": "Tênis Puma Rs-x Mix",
+            "slogan":"Combinando elementos de design vintage com tecnologia de ponta, os RS-X Mix apresentam uma entressola robusta que proporciona amortecimento responsivo e suporte durante todo o dia. Sua sola de borracha durável oferece tração excepcional em uma variedade de superfícies, garantindo estabilidade e segurança em cada passo.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/394302-50-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/394302-50-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 33,
+            "name": "Tênis Puma Suede Classic Preto Masculino",
+            "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+            "price":  404.91,
+            "pix": 384.66,
+            "parcelas": "6x de R$ 67,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/385378-01-lado.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/385378-01-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "bones-produtos":[
+        {
+            "id": 34,
+            "name": "Boné 9FIFTY Original Fit MLB Los Angeles Dodgers",
+            "slogan":"Depois do sucesso do 9FIFTY™, agora é a vez de relançarmos o primeiro formato desenvolvido para este modelo: o The 9FIFTY™ Original Fit, inspirado no formato Original Pro Fit, que traz a tendência que fez moda e que está voltando com muita força, dos anos 80 e 90. Clássico, o boné New Era® 9FIFTY™ OF é confeccionado em tecido resistente e recebe clássica flag New Era® na lateral esquerda. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. O 9FIFTY™ Original Fit vem com a aba em um formato quadrado e mais curto, a copa do boné vem um pouco mais reta e o cap é mais raso, sendo um modelo FIT que não cobre as orelhas e tem as linhas mais retas. Seu fechamento strapback é prático e garante um ajuste preciso à cabeça. The 9FIFTY™ Original Fit, reinventamos um clássico. Prove esse FIT.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/mbperbon426-2-0210131220.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/mbperbon426-4-0210131220.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 35,
+            "name": "Boné 9FIFTY Original Fit MLB New York Yankees",
+            "slogan":"Depois do sucesso do 9FIFTY™, agora é a vez de relançarmos o primeiro formato desenvolvido para este modelo: o The 9FIFTY™ Original Fit, inspirado no formato Original Pro Fit, que trás a tendência que fez moda e que está voltando com muita força, dos anos 80 e 90. Ostentando o emblema do glorioso New York Yankees, o boné New Era® 9FIFTY™ OF SN Basic Logo Branco New York Yankees é confeccionado em tecido resistente e recebe clássica flag New Era® na lateral esquerda. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. O 9FIFTY™ Original Fit vem com a aba em um formato quadrado e mais curto, a copa do boné vem um pouco mais reta e o cap é mais raso, sendo um modelo FIT que não cobre as orelhas e tem as linhas mais retas. Seu fechamento snapback é prático e garante um ajuste preciso à cabeça. The 9FIFTY™ Original Fit, reinventamos um clássico. Prove esse FIT..",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/mbperbon091-1-0210130652.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/mbperbon091-4-0210130652.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 36,
+            "name": "Boné 59FIFTY NBA Los Angeles Lakers Cores",
+            "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/nbv25bon022-5.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/nbv25bon022-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 37,
+            "name": "Boné 59FIFTY NFL Las Vegas Raiders Core Essentials Styl",
+            "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/bone-59fifty-nfl-las-vegas-raiders-core-essentials-style-2.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/bone-59fifty-nfl-las-vegas-raiders-core-essentials-style-6.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 38,
+            "name": "Boné 59FIFTY MLB New York Yankees Subway Series",
+            "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/mbv25bon098-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/mbv25bon098-6.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 39,
+            "name": "Boné 59FIFTY NFL Tampa Bay Buccaneers Core Essentials Style",
+            "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/nfv25bon011-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/nfv25bon011-6.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "memoria-produtos":[
+        {
+            "id": 40,
+            "name": "Camiseta Kings Memorias Ladeira Preta",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16364-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a0697-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 41,
+            "name": "Camiseta Kings Memorias Ladeira Verde",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/05/frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/05/verso.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 42,
+            "name": "Camiseta Kings Memorias Ladeira Off White",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16391-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16394-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 43,
+            "name": "Camiseta Kings Memorias Taco Roxa",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16410.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a1058.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "washed-produtos":[
+        {
+            "id": 44,
+            "name": "Camiseta Kings Oversized",
+            "slogan":"Explore a elegância contemporânea com a Camiseta Kings Pegasus Oversized. Uma peça icônica e com uma fusão perfeita de estilo arrojado e conforto incomparável.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16218.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4456-1-0804190652.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 45,
+            "name": "Shorts Washed",
+            "slogan":"Shorts Kings Washed, a peça essencial que combina estilo urbano e conforto para acompanhar você em todas as aventuras. Com um design moderno e versátil, este shorts é perfeito para qualquer ocasião, seja um dia de lazer ou uma saída casual com os amigos.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/02-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16204.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 46,
+            "name": "Cropped  Top Gothic",
+            "slogan":"o Cropped Kings Top Gothic é uma peça de destaque que combina estilo, conforto e um toque de originalidade gótica. Ideal para criar looks ousados e expressivos, esta peça pode ser combinada com saias, shorts ou calças para uma variedade de ocasiões casuais ou noturnas.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16233.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4404-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 47,
+            "name": "Camiseta Washed Ghotic Oversized",
+            "slogan":"A camiseta Kings Gothic Oversized é mais do que apenas uma peça de vestuário; é uma expressão de estilo e individualidade, é a escolha perfeita para quem busca se destacar com elegância e originalidade.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16210.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16206.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "hood-produtos":[
+        {
+            "id": 48,
+            "name": "Moletom Hood Runners White",
+            "slogan":"Apresentamos o Moletom Kings Hood Runners Off-White, uma peça que combina estilo urbano com conforto premium. Perfeito para quem busca um visual moderno e despojado, este moletom é confeccionado com materiais de alta qualidade que garantem maciez e durabilidade.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/07/07.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/07/02.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 49,
+            "name": "Calça Moletom Hood Marrom",
+            "slogan":"Conforto e estilo se unem na Calça de Moletom Kings Hood Runners Marrom, perfeita para quem busca um visual moderno e despojado sem abrir mão da qualidade. Ideal para o dia a dia, essa calça oferece o máximo de conforto, seja para um passeio casual ou para atividades físicas leves.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/07/21.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/07/23.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 50,
+            "name": "Cropped Runners Off-White",
+            "slogan":"Eleve o seu estilo com o Cropped Kings Hood Runners Off-White, uma peça que combina conforto, estilo e atitude. Ideal para quem busca uma roupa versátil e moderna, este cropped é perfeito para diversas ocasiões, desde um dia casual até um encontro mais descontraído com os amigos.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16243-2006182921.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16242-2006182921.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 51,
+            "name": "Cropped Kings  Marrom",
+            "slogan":"Transforme seu guarda-roupa com o Cropped Kings Hood Runners Marrom, uma peça que combina estilo moderno e conforto incomparável. Ideal para quem busca um visual descolado e versátil, este cropped é perfeito para diversas ocasiões, desde um dia casual até um evento social mais descontraído.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16265.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16268.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ],
+    "street-produtos":[
+        {
+            "id": 52,
+            "name": "Camiseta Kings Memorias Ladeira Preta",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16364-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a0697-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 53,
+            "name": "Camiseta Kings Memorias Ladeira Verde",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/05/frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/05/verso.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 54,
+            "name": "Camiseta Kings Memorias Ladeira Off White",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16391-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16394-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 55,
+            "name": "Camiseta Kings Memorias Taco Roxa",
+            "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16410.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a1058.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 56,
+            "name": "Camiseta Kings Washed Pegasus Oversized",
+            "slogan":"Explore a elegância contemporânea com a Camiseta Kings Pegasus Oversized. Uma peça icônica e com uma fusão perfeita de estilo arrojado e conforto incomparável.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16218.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4456-1-0804190652.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 57,
+            "name": "Shorts Kings Washed",
+            "slogan":"Shorts Kings Washed, a peça essencial que combina estilo urbano e conforto para acompanhar você em todas as aventuras. Com um design moderno e versátil, este shorts é perfeito para qualquer ocasião, seja um dia de lazer ou uma saída casual com os amigos.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/02-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16204.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 58,
+            "name": "Cropped Kings Top Gothic",
+            "slogan":"o Cropped Kings Top Gothic é uma peça de destaque que combina estilo, conforto e um toque de originalidade gótica. Ideal para criar looks ousados e expressivos, esta peça pode ser combinada com saias, shorts ou calças para uma variedade de ocasiões casuais ou noturnas.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16233.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4404-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 59,
+            "name": "Camiseta Kings Washed Ghotic Oversized",
+            "slogan":"A camiseta Kings Gothic Oversized é mais do que apenas uma peça de vestuário; é uma expressão de estilo e individualidade, é a escolha perfeita para quem busca se destacar com elegância e originalidade.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16210.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16206.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 60,
+            "name": "Moletom Kings Hood Runners Off-White",
+            "slogan":"Apresentamos o Moletom Kings Hood Runners Off-White, uma peça que combina estilo urbano com conforto premium. Perfeito para quem busca um visual moderno e despojado, este moletom é confeccionado com materiais de alta qualidade que garantem maciez e durabilidade.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/07/07.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/07/02.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 61,
+            "name": "Calça Moletom Kings Hood Runners Marrom",
+            "slogan":"Conforto e estilo se unem na Calça de Moletom Kings Hood Runners Marrom, perfeita para quem busca um visual moderno e despojado sem abrir mão da qualidade. Ideal para o dia a dia, essa calça oferece o máximo de conforto, seja para um passeio casual ou para atividades físicas leves.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/07/21.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/07/23.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 62,
+            "name": "Cropped Kings Hood Runners Off-White",
+            "slogan":"Eleve o seu estilo com o Cropped Kings Hood Runners Off-White, uma peça que combina conforto, estilo e atitude. Ideal para quem busca uma roupa versátil e moderna, este cropped é perfeito para diversas ocasiões, desde um dia casual até um encontro mais descontraído com os amigos.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16243-2006182921.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16242-2006182921.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 63,
+            "name": "Cropped Kings Hood Runners Marrom",
+            "slogan":"Transforme seu guarda-roupa com o Cropped Kings Hood Runners Marrom, uma peça que combina estilo moderno e conforto incomparável. Ideal para quem busca um visual descolado e versátil, este cropped é perfeito para diversas ocasiões, desde um dia casual até um evento social mais descontraído.",
+            "price":  219.91,
+            "pix": 208.66,
+            "parcelas": "4x de R$ 55,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16265.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16268.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+
+
+    ],
+    "all-produtos":[
+        {
+            "id": 1,
+             "name": "Tênis Nike Vapormax 2023",
+             "slogan":"Você já andou no ar? Entre no Air VaporMax 2023 para ver como é feito.",
+             "price": 1499,
+             "pix": 1.424,
+             "parcelas": "6x de R$ 250,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/dv1678-003-3.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/dv1678-003-5.jpg",
+             "descricao": "Código identificador (SKU): DV1678-003 A tecnologia inovadora é revelada através da palmilha perfurada (retire para ver mais). A parte superior elástica do Flyknit é feita com pelo menos 20% de conteúdo reciclado em peso."
+          },
+          {
+           "id": 2,
+             "name": "Chinelo Nike Victori One Vermelho",
+             "slogan":"Da praia às arquibancadas, o Nike Victori One aperfeiçoa um design clássico e essencial. Oferecendo conforto com leveza e praticidade, ele foi atualizado com uma espuma mais macia e ágil. O padrão de pegada anatômico ajuda a apoiar e a manter o pé no lugar, enquanto a nova tira acolchoada oferece conforto e estilo.",
+             "price": 249.99,
+             "pix": 237.49,
+             "parcelas": "4x de R$ 62,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/10/cn9675-600-4.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/10/cn9675-600-2.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 3,
+             "name": "Nike Air Force 1 '07 Next Nature",
+             "slogan":"O brilho continua vivo no Air Force 1 '07, o ícone do basquete que dá um toque de frescor ao que você conhece melhor: materiais frescos, cores fortes e a quantidade perfeita de brilho para fazer você brilhar.",
+             "price": 799.99,
+             "pix": 733.49,
+             "parcelas": "6x de R$ 133,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/dc9486-103-2.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/dc9486-103-4.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 4,
+             "name": "Tênis Nike Air Force 1 '07 Feminino White & Black",
+             "slogan":"O brilho perdura no Nike Air Force 1 07, o tênis original do basquete que dá um toque renovado naquilo que você conhece bem: couro viçoso, cores ousadas e brilho perfeito para fazer você se destacar.",
+             "price": 799.99,
+             "pix": 733.49,
+             "parcelas": "6x de R$ 133,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/dd8959-103-3.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/dd8959-103-5.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 5,
+             "name": "Tênis Nike Air Force 1 '07 Masculino White & Yelow",
+             "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+             "price": 799.99,
+             "pix": 733.49,
+             "parcelas": "6x de R$ 133,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-2.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-4.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 6,
+             "name": "Tênis Nike Air Force 1'07 Masculino White & Red",
+             "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+             "price": 799.99,
+             "pix": 733.49,
+             "parcelas": "6x de R$ 133,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/fj4146-106-2.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/fj4146-106-4.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 7,
+             "name": "Camiseta Nike  Masculina",
+             "slogan":"ALGODÃO DENSO EM UM CAIMENTO SOLTO. A camiseta Nike Sportswear Premium Essentials tem um caimento solto para uma sensação confortável e casual. Seu tecido de algodão orgânico denso é espesso e macio. Este produto é feito com, no mínimo, 75% de fibras de algodão orgânico.",
+             "price":  249.99,
+             "pix": 237.49,
+             "parcelas": "4x de R$ 63,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/do7392-010-0005-frente.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/do7392-010-0004-verso.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 8,
+             "name": "Camiseta Nike Masculina",
+             "slogan":"Esta camiseta Max90 oferece ombros caídos, mangas mais longas e um ajuste espaçoso no corpo e quadris, dando a ela um visual relaxado. O tecido de algodão de peso médio é macio e tem um leve caimento.",
+             "price":  249.99,
+             "pix": 237.49,
+             "parcelas": "4x de R$ 63,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/fz5385-010-0004-frente2.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/fz5385-010-0005-verso.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }
+          ,
+          {
+           "id": 9,
+             "name": "Camiseta Masculina Verde",
+             "slogan":"Camiseta clássica fica solta no corpo para facilitar a composição de camadas. Seu algodão leve é macio e confortável para uso no dia a dia.",
+             "price":  249.99,
+             "pix": 237.49,
+             "parcelas": "4x de R$ 63,00 sem juros",
+             "image1":"https://s.lojakings.com.br/product/2024/09/fz9998-365-0007-frente.jpg",
+             "image2":"https://s.lojakings.com.br/product/2024/09/fz9998-365-0006-verso.jpg",
+             "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+          }  
+          ,
+          {
+            "id": 10,
+            "name": "Tênis Adidas Samba OG",
+            "slogan":"Se você voltasse no tempo para os anos 1960, encontraria jogadores profissionais de futebol usando adidas Sambas exatamente como este tênis infantil. Bem, quase iguais a ele. Atualizado para a próxima geração, ele possui palmilha macia e confortável para o dia todo. O cabedal de couro, o solado de borracha natural e as Três Listras continuam clássicos.",
+            "price":  799.99,
+            "pix": 757.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/ji4463-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/ji4463-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 11,
+            "name": "Tênis Adidas Campus Turquesa",
+            "slogan":"Embora tenham feito sua estreia no piso de madeira, os tênis Campus da adidas foram rapidamente adotados em quase todos os outros lugares. Com este par, movemos a silhueta icônica em outra direção e adicionamos materiais, cores e proporções modernas. Eles são feitos com um cabedal de couro premium forrado com tecido felpudo macio, com tudo isso montado em uma entressola off-white — uma conexão clara com o legado do Campus.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/id1437-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/id1437-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 12,
+            "name": "Tênis Adidas Campus 00s",
+            "slogan":"Este tênis Campus 00s revive uma silhueta icônica da adidas e dá um toque divertido. O cabedal sintético e de suede proporciona uma sensação de luxo, enquanto as Três Listras largas adicionam contraste ousado. Para um toque fofo e elegante, as pontas dos cadarços extras são amarradas em laços divertidos. Sob os pés, o solado de borracha oferece aderência para explorar o dia todo.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 13,
+            "name": "Tênis Adidas Campus 00s Verde",
+            "slogan":"Estes tênis adidas combinam design tradicional com tendências modernas para um visual que transcende as décadas. O cabedal de camurça molda uma silhueta icônica inspirada nas quadras, atualizada para as sensibilidades de estilo de hoje. As 3 Listras serrilhadas adicionam vibrações grunge sutis, enquanto o solado de borracha de goma mantém o visual autêntico.",
+            "price":  699.99,
+            "pix": 657.49,
+            "parcelas": "6x de R$ 133,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/jr0104-1.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/jr0104-4.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 14,
+            "name": "Regata Adidas Essentials",
+            "slogan":"Exiba estilo e conforto sem esforço com esta regata adidas. O design leve e delineador é feito de malha canelada que envolve seu corpo nos lugares certos. Combinada com uma calça jogger ou jeans, esta peça essencial e versátil transita perfeitamente do dia para a noite.",
+            "price":  129.99,
+            "pix": 123.49,
+            "parcelas": "2x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/iw5736-0006-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/iw5736-0002-frente2.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 15,
+            "name": "Camiseta Adidas 3-Stripes Feminina",
+            "slogan":"Esta camiseta adidas não apenas exibe as icônicas Três Listras, mas as celebra. Feita de malha simples para uma sensação leve e macia, a modelagem folgada oferece uma vibe descontraída perfeita para combinar com joggers e tênis. Para um look diferenciado, combine com uma calça de couro ou com uma saia e saltos.",
+            "price":  179.99,
+            "pix": 170.49,
+            "parcelas": "3x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/iy7230-frente.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/iy7230-verso.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+        ,
+        {
+            "id": 16,
+            "name": "Calça Adidas Classics SST",
+            "slogan":"As reinvenções têm tudo a ver com aproveitar o melhor do que já foi e torná-lo relevante para os dias de hoje. Inspirada nos estilos dos arquivos, esta calça adidas homenageia o passado com modelagem justa, barras caneladas e o Trefoil bordado em uma das pernas. O material macio leva o conforto a um novo patamar e o cordão na cintura elástica permite um ajuste perfeito a cada uso. Use-o sempre que tiver vontade de relaxar quando quiser.",
+            "price":  279.99,
+            "pix": 250.49,
+            "parcelas": "5x de R$ 63,00 sem juros",
+            "image1":"https://s.lojakings.com.br/product/2024/09/il2488-0003-model.jpg",
+            "image2":"https://s.lojakings.com.br/product/2024/09/il2488-0005-frente.jpg",
+            "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+        }
+    ,
+    {
+        "id": 17,
+        "name": "Tênis Air Jordan Spizike Low Brown",
+        "slogan":"O Spizike leva elementos de cinco Jordans clássicos , combina-os e oferece um tênis icônico. É uma homenagem a Spike Lee apresentando formalmente Hollywood e o basquete em um momento cultural. Você obtém um ótimo par de chutes com um pouco de história. O que mais você pode pedir? Você gostou",
+        "price":  1279,
+        "pix": 1.250,
+        "parcelas": "5x de R$ 213,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/08/fq1759-101-3.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/08/fq1759-101-5.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 18,
+        "name": "Tênis Air Jordan Legacy 312 Low",
+        "slogan":"Quem não gosta de um bom mash-up? Pegando elementos do AJ1, AJ3 e do Nike Air Alpha Force, esses tênis reúnem o que há de melhor. Detalhes icônicos (confira a estampa de elefante e a tira no meio do pé) homenageiam a época de MJ no código de área 312 de Chicago. Com materiais premium e amortecimento Nike Air, este é o início de um legado totalmente novo.",
+        "price":  1279,
+        "pix": 1.250,
+        "parcelas": "5x de R$ 213,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/08/fq7827-006-3.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/08/fq7827-006-5.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 19,
+        "name": "Tênis Air Jordan Spizike Low ",
+        "slogan":"Apresentando o Jordan Spizike Low “Anthracite”, uma colorway elegante e sofisticada que se junta à icônica linha da Jordan Brand. Além do popular par “Black Cat”, essa nova silhueta híbrida oferece uma combinação única de estilo e história, honrando o legado de Michael Jordan e a influência cultural de Spike Lee. Lançado originalmente em 2006, o Air Jordan Spizike é o resultado de uma colaboração entre a Jordan Brand e o renomado cineasta Spike Lee, amalgamando elementos de vários modelos clássicos da Air Jordan em um único design que se tornou um favorito entre os fãs.",
+        "price":  1279,
+        "pix": 1.250,
+        "parcelas": "5x de R$ 213,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/08/fq1759-002-5.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/08/fq1759-002-2.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 20,
+        "name": "Tênis Jordan Two Trey",
+        "slogan":"Assim como a placa do MJ diz “Two Trey”, mostre ao que você veio. Esta nova geração de Jordan celebra o tempo de Mike em Chicago, completa com cabedal de couro de alta qualidade e solado com amortecimento Air. Feita em homenagem ao estilo em quadra usado durante seus anos de campeonato, o design da entressola Two Trey faz referência ao AJ11 e ao AJ12.",
+        "price":  1279,
+        "pix": 1.250,
+        "parcelas": "5x de R$ 213,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/02/do1925-100-lado2-1402211455.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/02/do1925-100-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    },
+    {
+        "id": 21,
+        "name": "Tênis Puma Suede Classic Verde",
+        "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/385378-67-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/385378-67-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 22,
+        "name": "Tênis Suede XL Preto",
+        "slogan":"Esta nova abordagem ao clássico Suede inspira-se na herança da PUMA no breakdance e na sua influência no streetwear moderno. O Suede XL mantém o DNA icônico do Suede, mas dá um toque diferente com uma boca e língua acolchoadas exageradas, além de uma sola mais robusta. Esta execução apresenta uma parte superior totalmente em camurça com uma Formstrip de couro.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-5.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-2.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 23,
+        "name": "Tênis Puma Rs-x Mix",
+        "slogan":"Combinando elementos de design vintage com tecnologia de ponta, os RS-X Mix apresentam uma entressola robusta que proporciona amortecimento responsivo e suporte durante todo o dia. Sua sola de borracha durável oferece tração excepcional em uma variedade de superfícies, garantindo estabilidade e segurança em cada passo.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/394302-50-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/394302-50-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 23,
+        "name": "Tênis Puma Suede Classic Preto",
+        "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/385378-01-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/385378-01-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    },
+    {
+        "id":24,
+          "name": "Nike Air Force 1 '07 Next Nature",
+          "slogan":"O brilho continua vivo no Air Force 1 '07, o ícone do basquete que dá um toque de frescor ao que você conhece melhor: materiais frescos, cores fortes e a quantidade perfeita de brilho para fazer você brilhar.",
+          "price": 799.99,
+          "pix": 733.49,
+          "parcelas": "6x de R$ 133,00 sem juros",
+          "image1":"https://s.lojakings.com.br/product/2024/09/dc9486-103-2.jpg",
+          "image2":"https://s.lojakings.com.br/product/2024/09/dc9486-103-4.jpg",
+          "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+       }
+       ,
+       {
+        "id": 25,
+          "name": "Tênis Nike Air Force 1 '07 Feminino White & Black",
+          "slogan":"O brilho perdura no Nike Air Force 1 07, o tênis original do basquete que dá um toque renovado naquilo que você conhece bem: couro viçoso, cores ousadas e brilho perfeito para fazer você se destacar.",
+          "price": 799.99,
+          "pix": 733.49,
+          "parcelas": "6x de R$ 133,00 sem juros",
+          "image1":"https://s.lojakings.com.br/product/2024/09/dd8959-103-3.jpg",
+          "image2":"https://s.lojakings.com.br/product/2024/09/dd8959-103-5.jpg",
+          "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+       }
+       ,
+       {
+        "id": 26,
+          "name": "Tênis Nike Air Force 1 '07 Masculino White & Yelow",
+          "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+          "price": 799.99,
+          "pix": 733.49,
+          "parcelas": "6x de R$ 133,00 sem juros",
+          "image1":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-2.jpg",
+          "image2":"https://s.lojakings.com.br/product/2024/09/air-force-1-07-branco-amarelo-4.jpg",
+          "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+       }
+       ,
+       {
+        "id": 27,
+          "name": "Tênis Nike Air Force 1'07 Masculino White & Red",
+          "slogan":"Confortável, durável e atemporal - não é à toa que ele é o número 1. A construção dos anos 80 é combinada com cores clássicas para um estilo que acompanha se você está na quadra ou em movimento.",
+          "price": 799.99,
+          "pix": 733.49,
+          "parcelas": "6x de R$ 133,00 sem juros",
+          "image1":"https://s.lojakings.com.br/product/2024/09/fj4146-106-2.jpg",
+          "image2":"https://s.lojakings.com.br/product/2024/09/fj4146-106-4.jpg",
+          "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+       }
+       ,
+       {
+        "id": 28,
+        "name": "Tênis Adidas Campus 00s",
+        "slogan":"Este tênis Campus 00s revive uma silhueta icônica da adidas e dá um toque divertido. O cabedal sintético e de suede proporciona uma sensação de luxo, enquanto as Três Listras largas adicionam contraste ousado. Para um toque fofo e elegante, as pontas dos cadarços extras são amarradas em laços divertidos. Sob os pés, o solado de borracha oferece aderência para explorar o dia todo.",
+        "price":  699.99,
+        "pix": 657.49,
+        "parcelas": "6x de R$ 133,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/if9638-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 29,
+        "name": "Tênis Adidas Campus 00s Verde",
+        "slogan":"Estes tênis adidas combinam design tradicional com tendências modernas para um visual que transcende as décadas. O cabedal de camurça molda uma silhueta icônica inspirada nas quadras, atualizada para as sensibilidades de estilo de hoje. As 3 Listras serrilhadas adicionam vibrações grunge sutis, enquanto o solado de borracha de goma mantém o visual autêntico.",
+        "price":  699.99,
+        "pix": 657.49,
+        "parcelas": "6x de R$ 133,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/09/jr0104-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/09/jr0104-4.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 30,
+        "name": "Tênis Puma Suede Classic Verde Masculino",
+        "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/385378-67-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/385378-67-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 31,
+        "name": "Tênis Suede XL Preto",
+        "slogan":"Esta nova abordagem ao clássico Suede inspira-se na herança da PUMA no breakdance e na sua influência no streetwear moderno. O Suede XL mantém o DNA icônico do Suede, mas dá um toque diferente com uma boca e língua acolchoadas exageradas, além de uma sola mais robusta. Esta execução apresenta uma parte superior totalmente em camurça com uma Formstrip de couro.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-5.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/tenis-suede-xl-2.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 32,
+        "name": "Tênis Puma Rs-x Mix",
+        "slogan":"Combinando elementos de design vintage com tecnologia de ponta, os RS-X Mix apresentam uma entressola robusta que proporciona amortecimento responsivo e suporte durante todo o dia. Sua sola de borracha durável oferece tração excepcional em uma variedade de superfícies, garantindo estabilidade e segurança em cada passo.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/394302-50-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/394302-50-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 33,
+        "name": "Tênis Puma Suede Classic Preto Masculino",
+        "slogan":"O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+        "price":  404.91,
+        "pix": 384.66,
+        "parcelas": "6x de R$ 67,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/385378-01-lado.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/385378-01-frente.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    },
+    {
+        "id": 34,
+        "name": "Boné 9FIFTY Original Fit MLB Los Angeles Dodgers",
+        "slogan":"Depois do sucesso do 9FIFTY™, agora é a vez de relançarmos o primeiro formato desenvolvido para este modelo: o The 9FIFTY™ Original Fit, inspirado no formato Original Pro Fit, que traz a tendência que fez moda e que está voltando com muita força, dos anos 80 e 90. Clássico, o boné New Era® 9FIFTY™ OF é confeccionado em tecido resistente e recebe clássica flag New Era® na lateral esquerda. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. O 9FIFTY™ Original Fit vem com a aba em um formato quadrado e mais curto, a copa do boné vem um pouco mais reta e o cap é mais raso, sendo um modelo FIT que não cobre as orelhas e tem as linhas mais retas. Seu fechamento strapback é prático e garante um ajuste preciso à cabeça. The 9FIFTY™ Original Fit, reinventamos um clássico. Prove esse FIT.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/mbperbon426-2-0210131220.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/mbperbon426-4-0210131220.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 35,
+        "name": "Boné 9FIFTY Original Fit MLB New York Yankees",
+        "slogan":"Depois do sucesso do 9FIFTY™, agora é a vez de relançarmos o primeiro formato desenvolvido para este modelo: o The 9FIFTY™ Original Fit, inspirado no formato Original Pro Fit, que trás a tendência que fez moda e que está voltando com muita força, dos anos 80 e 90. Ostentando o emblema do glorioso New York Yankees, o boné New Era® 9FIFTY™ OF SN Basic Logo Branco New York Yankees é confeccionado em tecido resistente e recebe clássica flag New Era® na lateral esquerda. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. O 9FIFTY™ Original Fit vem com a aba em um formato quadrado e mais curto, a copa do boné vem um pouco mais reta e o cap é mais raso, sendo um modelo FIT que não cobre as orelhas e tem as linhas mais retas. Seu fechamento snapback é prático e garante um ajuste preciso à cabeça. The 9FIFTY™ Original Fit, reinventamos um clássico. Prove esse FIT..",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/mbperbon091-1-0210130652.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/mbperbon091-4-0210130652.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 36,
+        "name": "Boné 59FIFTY NBA Los Angeles Lakers Cores",
+        "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/nbv25bon022-5.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/nbv25bon022-4.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 37,
+        "name": "Boné 59FIFTY NFL Las Vegas Raiders Core Essentials Styl",
+        "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/bone-59fifty-nfl-las-vegas-raiders-core-essentials-style-2.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/bone-59fifty-nfl-las-vegas-raiders-core-essentials-style-6.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 38,
+        "name": "Boné 59FIFTY MLB New York Yankees Subway Series",
+        "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/mbv25bon098-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/mbv25bon098-6.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 39,
+        "name": "Boné 59FIFTY NFL Tampa Bay Buccaneers Core Essentials Style",
+        "slogan":"O boné New Era® 59FIFTY® é confeccionado em tecido leve e recebe a bandeira New Era® na lateral esquerda. Moderna, a aba reta é estilosa e proteje o rosto dos raios solares. As vias respiráveis na parte superior ficam responsáveis por dissipar a umidade e garantem aquela sensação agradável de bem-estar. Muito resistente, conta com costuras reforçadas, o que contribui no aumento da durabilidade. Os fitteds da New Era® são como tênis, tem um número específico para cada tamanho. Para medir a sua cabeça, use uma fita métrica exatamente onde a sweatband (a faixa de tecido na parte interna do cap, aonde vão as etiquetas de tamanho) vai ficar quando o boné estiver em sua cabeça. Converta com a tabela e veja qual o 59FIFTY® da New Era® que faz a tua cabeça.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/10/nfv25bon011-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/10/nfv25bon011-6.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    },
+    {
+        "id": 40,
+        "name": "Camiseta Kings Memorias Ladeira Preta",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16364-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a0697-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 41,
+        "name": "Camiseta Kings Memorias Ladeira Verde",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/05/frente.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/05/verso.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 42,
+        "name": "Camiseta Kings Memorias Ladeira Off White",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16391-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16394-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 43,
+        "name": "Camiseta Kings Memorias Taco Roxa",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16410.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a1058.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 44,
+        "name": "Camiseta Kings Washed Pegasus Oversized",
+        "slogan":"Explore a elegância contemporânea com a Camiseta Kings Pegasus Oversized. Uma peça icônica e com uma fusão perfeita de estilo arrojado e conforto incomparável.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16218.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4456-1-0804190652.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 45,
+        "name": "Shorts Kings Washed",
+        "slogan":"Shorts Kings Washed, a peça essencial que combina estilo urbano e conforto para acompanhar você em todas as aventuras. Com um design moderno e versátil, este shorts é perfeito para qualquer ocasião, seja um dia de lazer ou uma saída casual com os amigos.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/02-frente.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16204.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 46,
+        "name": "Cropped Kings Top Gothic",
+        "slogan":"o Cropped Kings Top Gothic é uma peça de destaque que combina estilo, conforto e um toque de originalidade gótica. Ideal para criar looks ousados e expressivos, esta peça pode ser combinada com saias, shorts ou calças para uma variedade de ocasiões casuais ou noturnas.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16233.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4404-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 47,
+        "name": "Camiseta Kings Washed Ghotic Oversized",
+        "slogan":"A camiseta Kings Gothic Oversized é mais do que apenas uma peça de vestuário; é uma expressão de estilo e individualidade, é a escolha perfeita para quem busca se destacar com elegância e originalidade.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16210.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16206.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 48,
+        "name": "Moletom Kings Hood Runners Off-White",
+        "slogan":"Apresentamos o Moletom Kings Hood Runners Off-White, uma peça que combina estilo urbano com conforto premium. Perfeito para quem busca um visual moderno e despojado, este moletom é confeccionado com materiais de alta qualidade que garantem maciez e durabilidade.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/07/07.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/07/02.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 49,
+        "name": "Calça Moletom Kings Hood Runners Marrom",
+        "slogan":"Conforto e estilo se unem na Calça de Moletom Kings Hood Runners Marrom, perfeita para quem busca um visual moderno e despojado sem abrir mão da qualidade. Ideal para o dia a dia, essa calça oferece o máximo de conforto, seja para um passeio casual ou para atividades físicas leves.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/07/21.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/07/23.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 50,
+        "name": "Cropped Kings Hood Runners Off-White",
+        "slogan":"Eleve o seu estilo com o Cropped Kings Hood Runners Off-White, uma peça que combina conforto, estilo e atitude. Ideal para quem busca uma roupa versátil e moderna, este cropped é perfeito para diversas ocasiões, desde um dia casual até um encontro mais descontraído com os amigos.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16243-2006182921.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16242-2006182921.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 51,
+        "name": "Cropped Kings Hood Runners Marrom",
+        "slogan":"Transforme seu guarda-roupa com o Cropped Kings Hood Runners Marrom, uma peça que combina estilo moderno e conforto incomparável. Ideal para quem busca um visual descolado e versátil, este cropped é perfeito para diversas ocasiões, desde um dia casual até um evento social mais descontraído.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16265.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16268.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    },
+    {
+        "id": 52,
+        "name": "Camiseta Kings Memorias Ladeira Preta",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16364-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a0697-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 53,
+        "name": "Camiseta Kings Memorias Ladeira Verde",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/05/frente.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/05/verso.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 54,
+        "name": "Camiseta Kings Memorias Ladeira Off White",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16391-1.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16394-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 55,
+        "name": "Camiseta Kings Memorias Taco Roxa",
+        "slogan":"Memórias: Uma Coleção que Resgata a Magia do Passado Nossa nova coleção é uma cápsula do tempo, uma jornada inspirada nas mais preciosas memórias da infância. Voltamos às raízes da diversão, relembrando os dias de correr pelas ruas descalços, soltar pipas, jogar peão, disputar partidas de taco com os amigos e descer ladeiras com nossos carrinhos de rolimã. Estas brincadeiras, tão simples e cativantes, são como tesouros esquecidos em um mundo moderno cada vez mais digital. Talvez você não tenha vivenciado essa geração, mas certamente seus pais tiveram o privilégio de experimentar toda a alegria e inocência da infância. E agora, restam-nos apenas as doces lembranças, guardadas com carinho em nossos corações",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16410.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a1058.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 56,
+        "name": "Camiseta Kings Washed Pegasus Oversized",
+        "slogan":"Explore a elegância contemporânea com a Camiseta Kings Pegasus Oversized. Uma peça icônica e com uma fusão perfeita de estilo arrojado e conforto incomparável.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16218.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4456-1-0804190652.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 57,
+        "name": "Shorts Kings Washed",
+        "slogan":"Shorts Kings Washed, a peça essencial que combina estilo urbano e conforto para acompanhar você em todas as aventuras. Com um design moderno e versátil, este shorts é perfeito para qualquer ocasião, seja um dia de lazer ou uma saída casual com os amigos.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/02-frente.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16204.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 58,
+        "name": "Cropped Kings Top Gothic",
+        "slogan":"o Cropped Kings Top Gothic é uma peça de destaque que combina estilo, conforto e um toque de originalidade gótica. Ideal para criar looks ousados e expressivos, esta peça pode ser combinada com saias, shorts ou calças para uma variedade de ocasiões casuais ou noturnas.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16233.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/2o5a4404-1.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 59,
+        "name": "Camiseta Kings Washed Ghotic Oversized",
+        "slogan":"A camiseta Kings Gothic Oversized é mais do que apenas uma peça de vestuário; é uma expressão de estilo e individualidade, é a escolha perfeita para quem busca se destacar com elegância e originalidade.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16210.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/04/20240124-ecomm-inverno16206.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 60,
+        "name": "Moletom Kings Hood Runners Off-White",
+        "slogan":"Apresentamos o Moletom Kings Hood Runners Off-White, uma peça que combina estilo urbano com conforto premium. Perfeito para quem busca um visual moderno e despojado, este moletom é confeccionado com materiais de alta qualidade que garantem maciez e durabilidade.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/07/07.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/07/02.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 61,
+        "name": "Calça Moletom Kings Hood Runners Marrom",
+        "slogan":"Conforto e estilo se unem na Calça de Moletom Kings Hood Runners Marrom, perfeita para quem busca um visual moderno e despojado sem abrir mão da qualidade. Ideal para o dia a dia, essa calça oferece o máximo de conforto, seja para um passeio casual ou para atividades físicas leves.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/07/21.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/07/23.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 62,
+        "name": "Cropped Kings Hood Runners Off-White",
+        "slogan":"Eleve o seu estilo com o Cropped Kings Hood Runners Off-White, uma peça que combina conforto, estilo e atitude. Ideal para quem busca uma roupa versátil e moderna, este cropped é perfeito para diversas ocasiões, desde um dia casual até um encontro mais descontraído com os amigos.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16243-2006182921.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16242-2006182921.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ,
+    {
+        "id": 63,
+        "name": "Cropped Kings Hood Runners Marrom",
+        "slogan":"Transforme seu guarda-roupa com o Cropped Kings Hood Runners Marrom, uma peça que combina estilo moderno e conforto incomparável. Ideal para quem busca um visual descolado e versátil, este cropped é perfeito para diversas ocasiões, desde um dia casual até um evento social mais descontraído.",
+        "price":  219.91,
+        "pix": 208.66,
+        "parcelas": "4x de R$ 55,00 sem juros",
+        "image1":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16265.jpg",
+        "image2":"https://s.lojakings.com.br/product/2024/06/20240124-ecomm-inverno16268.jpg",
+        "descricao": "Código identificador (SKU): CN9675-600 A nova espuma mais macia e o amortecimento mecânico adicionam agilidade e conforto surpreendentes que duram. As palmilhas contornadas envolvem e sustentam seu pé, enquanto o padrão de pegada ajuda a manter seu pé no lugar.  A parte de cima da tira aumenta o conforto, enquanto o seu enchimento espesso proporciona maciez. O novo design da tira oferece espaço adicional, acomodando mais tamanhos de pés. A sola apresenta um novo padrão para maior tração."
+    }
+    ]
 }
